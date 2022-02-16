@@ -53,6 +53,7 @@ function App() {
     <div className="App">
       <div className = "black-nav">
         <div style={ style1 }>개발 blog</div>
+        <div style={ style1 }>blog2 에서 작업한 것입니다.</div>
       </div>
 
       <button onClick = { changeTitle1 }>button1</button>
