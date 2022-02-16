@@ -87,7 +87,7 @@ function App() {
           modal == false
           ? ()=> { changeModal(true) }
           : ()=> { changeModal(false) }
-      }> 모달창 열고 닫는 버튼</button>
+      }> 모달창 열고 닫는 버튼 깃테스트</button>
 
       {
         modal == true
